@@ -7,6 +7,6 @@ public class PremiumCinema extends Cinema {
 
     @Override
     public double kalkulasiBiayaAdmin() {
-        return this.harga * 20 / 100;
+        return this.harga * 40 / 100;
     }
 }
